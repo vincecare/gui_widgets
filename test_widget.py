@@ -1,3 +1,7 @@
+###  file: test_widget.py
+###  written by Vince Du
+###  Desciption:   To test the functions of widget.py library     
+
 import tkinter as tk
 import widget as wg
 
